@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'TrajanProRegular';
+	src: url(../../assets/fonts/TrajanProRegular.eot) format('embedded-opentype'),
+	url(../../assets/fonts/TrajanProRegular.woff) format('woff'),
+	url(../../assets/fonts/TrajanProRegular.ttf) format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
